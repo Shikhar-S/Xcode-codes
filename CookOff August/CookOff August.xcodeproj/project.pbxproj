@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E3E367941B8A47DA0087E450 /* WildCard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = WildCard.cpp; sourceTree = "<group>"; };
+		E3E367951B8A4EDE0087E450 /* ChefXOR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ChefXOR.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E3E3678D1B8A47BD0087E450 = {
+			isa = PBXGroup;
+			children = (
+				E3E367951B8A4EDE0087E450 /* ChefXOR.cpp */,
+				E3E367941B8A47DA0087E450 /* WildCard.cpp */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		E3E3678E1B8A47BE0087E450 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+			};
+			buildConfigurationList = E3E367911B8A47BE0087E450 /* Build configuration list for PBXProject "CookOff August" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E3E3678D1B8A47BD0087E450;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E3E367921B8A47BE0087E450 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		E3E367931B8A47BE0087E450 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E3E367911B8A47BE0087E450 /* Build configuration list for PBXProject "CookOff August" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E3E367921B8A47BE0087E450 /* Debug */,
+				E3E367931B8A47BE0087E450 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E3E3678E1B8A47BE0087E450 /* Project object */;
+}
